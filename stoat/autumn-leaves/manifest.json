@@ -1,0 +1,6 @@
+{
+  "name": "Autumn Leaves",
+  "description": "falling leaves.",
+  "entry": "autumn-leaves.user.js",
+  "version": "1.0.0"
+}
