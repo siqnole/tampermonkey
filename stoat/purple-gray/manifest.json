@@ -1,0 +1,6 @@
+{
+  "name": "purple gray",
+  "description": "first theme, makes stoat purple and gray, i hope",
+  "entry": "purple-gray.user.js",
+  "version": "1.0.0"
+}
